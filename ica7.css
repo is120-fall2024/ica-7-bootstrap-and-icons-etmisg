@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f0ea;
+}
+
+.text-primary {
+    color: #4d7c5e !important;
+}
+
+.bg-primary {
+    background-color: #e88d8d !important;
+}
